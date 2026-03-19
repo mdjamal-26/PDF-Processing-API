@@ -1,4 +1,4 @@
-# Resume Parser API
+# PDF PROCESSING API
 
 Upload a PDF resume and get structured JSON back — name, email, phone, and skills.
 
